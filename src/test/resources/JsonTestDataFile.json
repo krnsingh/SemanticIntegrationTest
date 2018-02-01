@@ -1,0 +1,89 @@
+{
+  "results": [
+    {
+      "href": "https://link/to/result",
+      "title": "Document title",
+      "summary": "Document summary"
+    },
+    {
+      "href": "https://link/to/result2",
+      "title": "Document 2 title",
+      "summary": "Document 2 summary"
+    },
+    {
+      "href": "https://link/to/result3",
+      "title": "Document 3 title",
+      "summary": "Document 3 summary"
+    },
+    {
+      "href": "https://link/to/result4",
+      "title": "Document 4 title",
+      "summary": "Document 4 summary"
+    },
+    {
+      "href": "https://link/to/result5",
+      "title": "Document 5 title",
+      "summary": "Document 5 summary"
+    },
+    {
+      "href": "https://link/to/result6",
+      "title": "Document 6 title",
+      "summary": "Document 6 summary"
+    },
+    {
+      "href": "https://link/to/result7",
+      "title": "Document 7 title",
+      "summary": "Document 7 summary"
+    },
+    {
+      "href": "https://link/to/result8",
+      "title": "Document 8 title",
+      "summary": "Document 8 summary"
+    },
+    {
+      "href": "https://link/to/result9",
+      "title": "Document 9 title",
+      "summary": "Document 9 summary"
+    },
+    {
+      "href": "https://link/to/result10",
+      "title": "Document 10 title",
+      "summary": "Document 10 summary"
+    },
+    {
+      "href": "https://link/to/result11",
+      "title": "Document 11 title",
+      "summary": "Document 11 summary"
+    },
+    {
+      "href": "https://link/to/result12",
+      "title": "Document 12 title",
+      "summary": "Document 12 summary"
+    },
+    {
+      "href": "https://link/to/result13",
+      "title": "Document 13 title",
+      "summary": "Document 13 summary"
+    },
+    {
+      "href": "https://link/to/result14",
+      "title": "Document 14 title",
+      "summary": "Document 14 summary"
+    },
+    {
+      "href": "https://link/to/result15",
+      "title": "Document 15 title",
+      "summary": "Document 15 summary"
+    },
+    {
+      "href": "https://link/to/result16",
+      "title": "Document 16 title",
+      "summary": "Document 16 summary"
+    },
+    {
+      "href": "https://link/to/result17",
+      "title": "Document 17 title",
+      "summary": "Document 17 summary"
+    }
+  ]
+}
